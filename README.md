@@ -7,12 +7,12 @@
 # LINK PENJELASAN ADA DIBAWAH INI DALAM BENTUK VIDIO
 Your Link Here
 
-Tugas membuat Package and Modul
+# Tugas membuat Package and Modul
 Tugas yang diberikan memiliki soal sebagai berikut
 soal
 
 
-Penjelasan
+# Penjelasan
 Daftar_Nilai
 data = {} untuk menampung list data yang nanti akan terinput
 
@@ -26,7 +26,7 @@ data[nama] = [nama, nim, nilai_tugas, nilai_uts, nilai_uas, nilai_akhir] kita ak
 
 lalu cetak print()
 
-Ubah Data
+# Ubah Data
 deklarasikan fungsi def ubah_data():
 
 nama = input("Masukan nama untuk mengubah data: ") kita akan menginput data yang nanti akan di ubah
@@ -70,7 +70,7 @@ jika sudah maka cetak print("sub_data '{}' berhasil dihapus.".format(nama))
 
 else: print("'{}' tidak ditemukan.".format(nama)) jika data yang kita input salah/tidak ditemukan maka akan tercetak 'nama tidak di temukan'
 
-Hapus Data
+# Hapus Data
 deklarasikan fungsi def hapus_data():
 
 nama = input("Masukan nama untuk menghapus data : ") kita akan menginput data yang nanti akan di hapus
@@ -83,26 +83,26 @@ jika sudah maka cetak print("sub_data '{}' berhasil dihapus.".format(nama))
 
 else: print("'{}' tidak ditemukan.".format(nama)) jika data yang kita input salah/tidak ditemukan maka akan tercetak 'nama tidak di temukan'
 
-View
-Input Nilai
+ View
+# Input Nilai
 menambahkan fungsi input yang nanti nya akan di deklarasikan di setiap module nya, def input_nama(): def input_nim(): dan yg lainnya, yang nanti akan di masukkan kedalam data={}
 View Nilai
 deklarasikan fungsi def lihat_data(): Kita menggunakan kondisi percabangan if, ambil data dari data
 lalu cetak print()
 Maka OUTPUT yg didaptkan adalah
-HURUF T
+# HURUF T
 
 
-HURUF C
+# HURUF C
 
 
-HURUF U
+# HURUF U
 
 
-HURUF L
+# HURUF L
 
 
-HURUF H
+# HURUF H
 
 
 Sekian penjelasan yang saya dampaikan jika masih ada kekurangan mohon dimaafkan dan teima kasih.
